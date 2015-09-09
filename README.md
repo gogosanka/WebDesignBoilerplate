@@ -1,7 +1,13 @@
 # Web Design Landing Page
 created by Jeffrey Jean-Pierre
-Landing page HTML/CSS boilerplate was created following the General Assembly Dash tutorial for code. While the lessons were used to create this, all resources in this code belong to me.
+<p>This landing page source code is written in HTML and CSS, and serves as boilerplate for creating your own landing page.</p>
+####Features
+- Profile picture
+- CSS tag styles
+- Email submission form
+- Short bio
+- Background image
 
-Make sure to edit the code for your personal use.
+Feel free to edit the code for your personal use.
 
 -more to come.
